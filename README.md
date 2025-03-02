@@ -145,7 +145,14 @@
 #
 
 ###
-<img src="https://raw.githubusercontent.com/shivam-aarya/shivam-aarya/output/snake.svg" alt="Snake animation" />
+<div align="center" style="border: 2px solid #ccc; padding: 10px; display: inline-block; border-radius: 10px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" style="display: block; max-width: 100%;" />
+  </picture>
+</div>
+
 
 <!--
 #
