@@ -43,7 +43,7 @@
 <!--! [](https://github-readme-stats.vercel.app/api?username=shivam-aarya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shivam-aarya&theme=dark&hide_border=false)<br/> -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-aarya&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-aarya&theme=dark&hide_border=false&count_private=true&layout=compact" height="180" />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://streak-stats.demolab.com?user=shivam-aarya&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="180" />
 </div>
