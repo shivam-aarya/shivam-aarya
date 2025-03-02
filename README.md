@@ -37,7 +37,7 @@
 #
 
 ###
-<h3 align="left">🔥   Some Stats :</h3>
+<h3 align="left">🔥   Some (misleading) Stats :</h3>
 
 ###
 <!--! [](https://github-readme-stats.vercel.app/api?username=shivam-aarya&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -142,12 +142,10 @@
 
 ###
 
-<!--
 #
 
 ###
 <img src="https://raw.githubusercontent.com/shivam-aarya/shivam-aarya/output/snake.svg" alt="Snake animation" />
--->
 
 <!--
 #
