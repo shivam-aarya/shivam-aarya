@@ -32,7 +32,9 @@
 
 ###
 
-<p align="left">I'm a robotics and AI enthusiast passionate about building intelligent systems. My work revolves around embodied AI, robotics, and AI-driven applications that enhance everyday life. I’m currently researching household robotics at the SCAI Lab and working on two startups incubated by the Spark Accelerator.<br><br>I'm always happy to chat about AI, robotics, startups, or cool ideas, so feel free to reach out!</p>
+<p align="left">I'm a Computer Science Ph.D. student at Georgia Tech, researching autonomous robot learning. My goal is to eliminate the need for human demonstrations, bridge the sim-to-real gap, and enable robots to continually improve through experience. I'm particularly interested in building general-purpose robots that can help in everyday life.
+
+I'm always happy to chat about AI, robotics, startups, or cool ideas, so feel free to reach out!</p>
 
 #
 
